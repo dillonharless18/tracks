@@ -4,6 +4,8 @@ This is a sample application built by following this course: https://www.udemy.c
 
 It demonstrates every aspect necessary to create a mobile app using React Native and Expo
 
+It allows a user to log in, start tracking their location, go for a walk or run, stop recording, save their tracks, and view them on a map.
+
 # To Run
 
 Download repository
