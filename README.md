@@ -10,6 +10,6 @@ Download repository
 
 Run 'npm install'
 
-Run 'expo install'
+Run 'npm install -g expo-cli'
 
 Run 'expo start'
